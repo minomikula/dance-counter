@@ -1,0 +1,7 @@
+{
+  "name": "DanceCounter",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
